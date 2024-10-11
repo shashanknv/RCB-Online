@@ -10,4 +10,3 @@ This project is a replica of the official Royal Challengers Bangalore (RCB) webs
 ## Technologies Used
 - **HTML/CSS**: For structuring and styling the website.
 - **JavaScript**: For interactive elements and form handling.
-- **Responsive Design**: Ensures the website is accessible on both desktop and mobile devices.
